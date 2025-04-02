@@ -113,15 +113,4 @@ After querying data in SQL, visualizations were created using Python:`
 
 ---
 
-## **9. Repository Structure**
-```
-📂 Netflix-Data-Analysis
-│── 📄 README.md (This file)
-│── 📂 Data (Raw dataset files)
-│── 📂 SQL_Scripts (SQL queries for cleaning & analysis)
-│── 📂 Visualizations (Python charts & reports)
-│── 📄 Netflix_Data_Analysis.ipynb (Jupyter Notebook)
-```
-
-Would love feedback on this project! 🚀 Feel free to fork and contribute!
 
